@@ -1,0 +1,12 @@
+{
+    "campanhas": [
+        {
+            "titulo": "Campanha de Natal",
+            "descricao": "Ajude-nos a levar alimentos e presentes para as crianças carentes durante o Natal."
+        },
+        {
+            "titulo": "Campanha de Inverno",
+            "descricao": "Contribua com roupas e cobertores para pessoas em situação de rua neste inverno."
+        }
+    ]
+}
